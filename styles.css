@@ -1,0 +1,20 @@
+.wrap {
+  display: flex;
+  width: 80%;
+  margin: 0 auto;
+  border: solid 1px black; }
+  .wrap #firstNum,
+  .wrap #secondNum {
+    width: 17%; }
+  .wrap div {
+    width: 10%;
+    background-color: cadetblue;
+    margin: 0 auto;
+    text-align: center;
+    cursor: pointer;
+    color: white; }
+  .wrap #Result {
+    width: 50%;
+    margin: 0 0 0 auto; }
+
+/*# sourceMappingURL=styles.css.map */

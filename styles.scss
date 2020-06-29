@@ -1,0 +1,23 @@
+.wrap{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    border: solid 1px black;
+    #firstNum,
+    #secondNum{
+        width: 17%;
+    }
+    div {
+        width: 10%;
+        background-color: cadetblue;
+        margin: 0 auto;
+        text-align: center;
+        cursor: pointer;
+        color: white;
+    }
+    #Result {
+        width: 50%;
+        margin: 0 0 0 auto;
+    }
+
+}
